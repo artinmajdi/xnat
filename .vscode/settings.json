@@ -5,7 +5,15 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        "xnat-docker-compose/.editorconfig": true,
+        "xnat-docker-compose/.github": true,
+        "xnat-docker-compose/.vscode": true,
+        ".vscode": true,
+        ".idea": true,
+        "xnat-docker-compose/.gitattributes": true,
+        ".gitmodules": true,
+        ".gitignore": true
     },
     "hide-files.files": []
 }
