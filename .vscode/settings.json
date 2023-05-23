@@ -8,12 +8,10 @@
         "**/Thumbs.db": true,
         "xnat-docker-compose/.editorconfig": true,
         "xnat-docker-compose/.github": true,
-        "xnat-docker-compose/.vscode": true,
-        ".vscode": true,
-        ".idea": true,
         "xnat-docker-compose/.gitattributes": true,
         ".gitmodules": true,
-        ".gitignore": true
+        ".gitignore": true,
+        "xnat-docker-compose/.gitignore": true
     },
     "hide-files.files": []
 }
