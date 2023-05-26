@@ -19,6 +19,3 @@ ADD RoiUploadAssistant-Fat.jar /work
 
 # Set the entry point to run the jar
 # ENTRYPOINT ["java", "-jar", "/work/RoiUploadAssistant-Fat.jar"]
-
-
-docker pull artinmajdi/monai-xnat
