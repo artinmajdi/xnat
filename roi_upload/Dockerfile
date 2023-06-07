@@ -12,10 +12,10 @@ RUN apt-get update && \
 USER jovyan
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /work
 
 # Add RoiUploaDAssistant.jar to the container
-ADD RoiUploadAssistant-Fat.jar /work
+ADD RoiUploadAssistant-Fat.jar /work;
 
 # Set the entry point to run the jar
 # ENTRYPOINT ["java", "-jar", "/work/RoiUploadAssistant-Fat.jar"]
